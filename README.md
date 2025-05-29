@@ -8,3 +8,4 @@ I'm living on NYC - I want to try a bunch of things!
    <img width="304" alt="Screenshot 2025-05-28 at 8 33 32 PM" src="https://github.com/user-attachments/assets/d8fe8af1-8c00-4105-86c5-faf2700604ea" />
 4. Staten Island Railway + Ferry
 5. Take the LIRR to the end
+6. https://www.peterpandonuts.com/
