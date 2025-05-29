@@ -9,3 +9,4 @@ I'm living on NYC - I want to try a bunch of things!
 4. Staten Island Railway + Ferry
 5. Take the LIRR to the end
 6. https://www.peterpandonuts.com/
+7. Try running a lightning talks meetup
